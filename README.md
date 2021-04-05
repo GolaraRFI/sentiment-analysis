@@ -1,5 +1,5 @@
 # sentiment-analysis
-### Text sentiment analysis with and without pretrained model
+## Text sentiment analysis with and without pretrained model
 I did this project on **Google Colaboratory** .
 
 In this projet I build and train 6 models:
