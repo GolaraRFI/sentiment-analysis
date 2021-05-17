@@ -2,7 +2,7 @@
 ## Text sentiment analysis with and without pretrained model
 This project is done on **Google Colaboratory**.
 
-In this projet I build and train 6 models:
+In this projet I build and train 6 different models:
 
   - LSTM with pretrained model
   - RNN with pretrained model
