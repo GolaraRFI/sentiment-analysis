@@ -12,7 +12,7 @@ In this project I build and train 6 different models:
   - GRU without pretrained model
 
 ***
-You can download the our corpus and pretrained model from the following link:
+You can download our corpus and pretrained model from the following link:
 
 Corpus: https://drive.google.com/file/d/1MEcQACSF8A3DEvkIs6WuuT6zKhkrtnFZ/view?usp=sharing
 
