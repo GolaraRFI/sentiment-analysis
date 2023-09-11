@@ -14,8 +14,8 @@ In this project 6 different models are built:
 ***
 Data availability:
 
-Corpus: https://drive.google.com/file/d/1MEcQACSF8A3DEvkIs6WuuT6zKhkrtnFZ/view?usp=sharing
+https://drive.google.com/file/d/1MEcQACSF8A3DEvkIs6WuuT6zKhkrtnFZ/view?usp=sharing
 
 Pretrained Model:
 
-Pretrained model: https://drive.google.com/file/d/1R4Y64l_B9pTBvIShKkoC1XGWRIQaQrT2/view?usp=sharing
+https://drive.google.com/file/d/1R4Y64l_B9pTBvIShKkoC1XGWRIQaQrT2/view?usp=sharing
