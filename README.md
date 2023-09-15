@@ -1,15 +1,18 @@
-# sentiment-analysis
-## Text sentiment analysis with and without pretrained model
-This project is done on **Google Colaboratory**.
+# Sentiment Analysis
 
-In this project 6 different models are built:
+## Text Sentiment Analysis with and without Pretrained Models
 
-  - LSTM with pretrained model
-  - RNN with pretrained model
-  - GRU with pretrained model
-  - LSTM without pretrained model
-  - RNN without pretrained model
-  - GRU without pretrained model
+This project was conducted using **Google Colaboratory**.
+
+In this project, we built six different models:
+
+- LSTM with Pretrained Model
+- RNN with Pretrained Model
+- GRU with Pretrained Model
+- LSTM without Pretrained Model
+- RNN without Pretrained Model
+- GRU without Pretrained Model
+
 
 ***
 Data availability:
